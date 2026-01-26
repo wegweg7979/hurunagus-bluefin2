@@ -112,3 +112,60 @@ IsRuntime=true
 [Flatpak Preinstall org.gtk.Gtk3theme.adw-gtk3-dark]
 Branch=3.22
 IsRuntime=true
+
+[Flatpak Preinstall org.audacityteam.Audacity]
+Branch=stable
+
+[Flatpak Preinstall com.bitwig.BitwigStudio]
+Branch=stable
+
+[Flatpak Preinstall org.blender.Blender]
+Branch=stable
+
+[Flatpak Preinstall com.brave.Browser]
+Branch=stable
+
+[Flatpak Preinstall org.chromium.Chromium]
+Branch=stable
+
+[Flatpak Preinstall de.leopoldluley.Clapgrep]
+Branch=stable
+
+[Flatpak Preinstall org.gimp.GIMP]
+Branch=stable
+
+[Flatpak Preinstall org.kde.kdenlive]
+Branch=stable
+
+[Flatpak Preinstall com.obsproject.Studio]
+Branch=stable
+
+[Flatpak Preinstall re.sonny.Retro]
+Branch=stable
+
+[Flatpak Preinstall org.videolan.VLC]
+Branch=stable
+
+[Flatpak Preinstall org.libreoffice.LibreOffice]
+Branch=stable
+
+[Flatpak Preinstall org.pitivi.Pitivi]
+Branch=stable
+
+[Flatpak Preinstall fr.handbrake.ghb]
+Branch=stable
+
+[Flatpak Preinstall io.gitlab.theevilskeleton.Upscaler]
+Branch=stable
+
+[Flatpak Preinstall com.github.wwmm.easyeffects]
+Branch=stable
+
+[Flatpak Preinstall org.thentrythis.Samplebrain]
+Branch=stable
+
+[Flatpak Preinstall net.biniou.LeBiniou]
+Branch=stable
+
+[Flatpak Preinstall com.github.zocker_160.SyncThingy ]
+Branch=stable
