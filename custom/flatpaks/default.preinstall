@@ -169,3 +169,38 @@ Branch=stable
 
 [Flatpak Preinstall com.github.zocker_160.SyncThingy ]
 Branch=stable
+
+[Flatpak Preinstall org.kde.kate ]
+Branch=stable
+
+[Flatpak Preinstall org.kde.okular ]
+Branch=stable
+
+[Flatpak Preinstall org.mixxx.Mixxx ]
+Branch=stable
+
+[Flatpak Preinstall org._3fz.mtoc ]
+Branch=stable
+
+[Flatpak Preinstall rg.luanti.luanti ]
+Branch=stable
+
+[Flatpak Preinstall org.vinegarhq.Sober ]
+Branch=stable
+
+[Flatpak Preinstall net.supertuxkart.SuperTuxKart ]
+Branch=stable
+
+[Flatpak Preinstall org.kde.kpat ]
+Branch=stable
+
+[Flatpak Preinstall org.gnome.Chess ]
+Branch=stable
+
+[Flatpak Preinstall org.gnome.Maps ]
+Branch=stable
+
+[Flatpak Preinstall org.nongnu.lingot ]
+Branch=stable
+
+
