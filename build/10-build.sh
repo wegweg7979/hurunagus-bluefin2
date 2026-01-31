@@ -48,8 +48,8 @@ echo "::group:: Install Packages"
 
 dnf install -y @virtualization btop waydroid libimobiledevice usbmuxd
 # Example using COPR with isolated pattern:
- copr_install_isolated "bieszczaders/kernel-cachyos" kernel-cachyos
- copr_install_isolated "bieszczaders/kernel-cachyos-addons" scx-scheds
+ #copr_install_isolated "bieszczaders/kernel-cachyos" kernel-cachyos
+ #copr_install_isolated "bieszczaders/kernel-cachyos-addons" scx-scheds
 
 echo "::endgroup::"
 
@@ -57,7 +57,7 @@ echo "::group:: System Configuration"
 
 # Enable/disable systemd services
 systemctl enable podman.socket
-systemctl enable --now scx.service
+#systemctl enable --now scx.service
 # Example: systemctl mask unwanted-service
 
 echo "::endgroup::"
