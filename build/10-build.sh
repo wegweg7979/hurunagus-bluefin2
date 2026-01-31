@@ -46,9 +46,9 @@ echo "::group:: Install Packages"
 # Install packages using dnf5
 # Example: dnf5 install -y tmux
 
-dnf install -y @virtualization btop waydroid libimobiledevice usbmuxd scx-scheds
+dnf install -y @virtualization btop waydroid libimobiledevice usbmuxd
 # Example using COPR with isolated pattern:
- copr_install_isolated "bieszczaders/kernel-cachyos" kernel-cachyos
+ copr_install_isolated "bieszczaders/kernel-cachyos" kernel-cachyos scx-scheds
 
 echo "::endgroup::"
 
