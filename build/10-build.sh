@@ -48,7 +48,7 @@ echo "::group:: Install Packages"
 
 dnf install -y @virtualization btop waydroid
 # Example using COPR with isolated pattern:
- #copr_install_isolated "bieszczaders/kernel-cachyos" kernel-cachyos
+ copr_install_isolated "bieszczaders/kernel-cachyos" kernel-cachyos kernel-cachyos-devel-matched
  #copr_install_isolated "bieszczaders/kernel-cachyos-addons" scx-scheds
 
 echo "::endgroup::"
